@@ -1,7 +1,5 @@
-### Hola mi nombre es Edisson Fernando Palomares Cifuentes
-- Me apasiona la programación y desarrollo de software.
-- Me interesa el desarrollo de páginas web, aplicaciones web y videojuegos.
-- Me gusta aprender acerca de inteligencia artificial y redes neuronales.
+Mi nombre es Edisson Fernando Palomares Cifuentes me gusta la programación y el desarrollo de software, me interesa la creación de páginas web, aplicaciones web y videojuegos, me apasiona aprender acerca de la inteligencia artificial y redes neuronales, me veo en el futuro aplicando en este campo ejecutando soluciones a los diferentes problemas y siendo un apoyo a personas o empresas que quieran implementar este tipo de tecnologías.
+
 --- 
 ## Tecnologias que manejo:
 ### Web
@@ -11,20 +9,20 @@
 - MVC
 - Express
 - NodeJs
---- 
+
 ### Lenguajes de programación:
 - Javascript
 - C 
 - C++
---- 
+
+### Sistemas operativos
+- GNU/Linux
 
 ### Actualment estoy aprendiendo:
 - Python
 - PHP
 --- 
-### Sistemas operativos
-- GNU/Linux
---- 
+
 ## Idiomas
 - Inglés intermedio
 
@@ -32,4 +30,4 @@
 - NDG Linux Essentials Course by Cisco Networking Academy
 
 ## Contacto:
-- Correo: palomaredif@gmail.com
+- Correo:  <palomaredif@gmail.com>
