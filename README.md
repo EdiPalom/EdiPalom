@@ -17,9 +17,10 @@
 - C++
 --- 
 
-### Lenguajes de programación que estoy aprendiendo:
+### Actualment estoy aprendiendo:
 - Python
 - PHP
+- Inteligencia Artificial
 --- 
 ### Sistemas operativos
 - GNU/Linux
