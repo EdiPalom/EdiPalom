@@ -8,6 +8,8 @@
 - CSS3
 - REST API
 - MVC
+- Express
+- NodeJs
 --- 
 ### Lenguajes de programación:
 - Javascript
