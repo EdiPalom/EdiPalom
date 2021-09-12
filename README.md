@@ -1,6 +1,7 @@
 ### Hola mi nombre es Edisson Fernando Palomares Cifuentes
-- Me apasiona la programación y el desarrollo de software.
+- Me apasiona la programación y desarrollo de software.
 - Me interesa el desarrollo de páginas web, aplicaciones web y videojuegos.
+- Me gusta aprender acerca de inteligencia artificial y redes neuronales.
 --- 
 ## Tecnologias que manejo:
 ### Web
@@ -20,7 +21,6 @@
 ### Actualment estoy aprendiendo:
 - Python
 - PHP
-- Inteligencia Artificial
 --- 
 ### Sistemas operativos
 - GNU/Linux
