@@ -28,5 +28,5 @@
 ## Cursos online
 - NDG Linux Essentials Course by Cisco Networking Academy
 
-# Contacto:
-### Correo: palomaredif@gmail.com
+## Contacto:
+- Correo: palomaredif@gmail.com
