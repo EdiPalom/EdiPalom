@@ -25,7 +25,7 @@
 ### Sistemas operativos
 - GNU/Linux
 --- 
-## Idiomas extranjeros
+## Idiomas
 - Inglés intermedio
 
 ## Cursos online
