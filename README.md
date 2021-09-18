@@ -18,7 +18,7 @@ Mi nombre es Edisson Fernando Palomares Cifuentes me gusta la programación y el
 ### Sistemas operativos
 - GNU/Linux
 
-### Actualment estoy aprendiendo:
+### Actualmente estoy aprendiendo:
 - Python
 - PHP
 --- 
