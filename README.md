@@ -9,6 +9,8 @@ Mi nombre es Edisson Fernando Palomares Cifuentes me gusta la programación y el
 - MVC
 - Express
 - NodeJs
+- CRUD
+- Backend con PHP
 
 ### Lenguajes de programación:
 - Javascript
@@ -20,7 +22,6 @@ Mi nombre es Edisson Fernando Palomares Cifuentes me gusta la programación y el
 
 ### Actualmente estoy aprendiendo:
 - Python
-- PHP
 --- 
 
 ## Idiomas
