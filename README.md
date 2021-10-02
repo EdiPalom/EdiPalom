@@ -9,8 +9,8 @@ Mi nombre es Edisson Fernando Palomares Cifuentes me gusta la programación y el
 - MVC
 - Express
 - NodeJs
-- CRUD
 - Backend con PHP
+- CRUD MySQL, PostgreSQL
 
 ### Lenguajes de programación:
 - Javascript
